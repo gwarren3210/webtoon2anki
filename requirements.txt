@@ -1,0 +1,9 @@
+paddlepaddle==2.5.2
+paddleocr==2.7.0.3
+Pillow==10.2.0
+opencv-python==4.6.0.66
+googletrans==4.0.0-rc1
+requests==2.31.0
+python-dotenv==1.0.1
+numpy==1.26.4
+tqdm==4.66.2 

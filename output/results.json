@@ -1,0 +1,3296 @@
+{
+  "timestamp": "2025-05-26T20:03:29.944084",
+  "total_words": 329,
+  "results": [
+    {
+      "word": "다른",
+      "context": "다른",
+      "translation": "different",
+      "confidence": 0.9999979138374329,
+      "position": {
+        "x": 329.0,
+        "y": 20284.0
+      }
+    },
+    {
+      "word": "또",
+      "context": "또",
+      "translation": "also",
+      "confidence": 0.9999964237213135,
+      "position": {
+        "x": 380.0,
+        "y": 18205.0
+      }
+    },
+    {
+      "word": "그런",
+      "context": "그런",
+      "translation": "that",
+      "confidence": 0.9999961256980896,
+      "position": {
+        "x": 428.0,
+        "y": 18878.0
+      }
+    },
+    {
+      "word": "떨어졌",
+      "context": "떨어졌",
+      "translation": "Fell",
+      "confidence": 0.999994695186615,
+      "position": {
+        "x": 470.0,
+        "y": 17044.0
+      }
+    },
+    {
+      "word": "그런",
+      "context": "그런",
+      "translation": "that",
+      "confidence": 0.9999935626983643,
+      "position": {
+        "x": 319.0,
+        "y": 20905.0
+      }
+    },
+    {
+      "word": "왜또",
+      "context": "왜또",
+      "translation": "Why",
+      "confidence": 0.9999930262565613,
+      "position": {
+        "x": 427.0,
+        "y": 18853.0
+      }
+    },
+    {
+      "word": "죽다",
+      "context": "죽다",
+      "translation": "die",
+      "confidence": 0.9999924898147583,
+      "position": {
+        "x": 295.0,
+        "y": 7608.0
+      }
+    },
+    {
+      "word": "그렇군",
+      "context": "그렇군",
+      "translation": "Yes",
+      "confidence": 0.9999917149543762,
+      "position": {
+        "x": 348.0,
+        "y": 16273.0
+      }
+    },
+    {
+      "word": "커피가",
+      "context": "커피가",
+      "translation": "Coffee",
+      "confidence": 0.9999899864196777,
+      "position": {
+        "x": 470.0,
+        "y": 17029.0
+      }
+    },
+    {
+      "word": "성씨는",
+      "context": "성씨는",
+      "translation": "Sung",
+      "confidence": 0.9999897480010986,
+      "position": {
+        "x": 305.0,
+        "y": 15645.0
+      }
+    },
+    {
+      "word": "그래도",
+      "context": "그래도",
+      "translation": "still",
+      "confidence": 0.9999895095825195,
+      "position": {
+        "x": 305.0,
+        "y": 12616.0
+      }
+    },
+    {
+      "word": "분들은",
+      "context": "분들은",
+      "translation": "People",
+      "confidence": 0.9999885559082031,
+      "position": {
+        "x": 354.0,
+        "y": 20283.0
+      }
+    },
+    {
+      "word": "씨도",
+      "context": "씨도",
+      "translation": "Seed",
+      "confidence": 0.9999868273735046,
+      "position": {
+        "x": 369.0,
+        "y": 18395.0
+      }
+    },
+    {
+      "word": "줄은",
+      "context": "줄은",
+      "translation": "Line",
+      "confidence": 0.999984860420227,
+      "position": {
+        "x": 467.0,
+        "y": 2943.0
+      }
+    },
+    {
+      "word": "나는",
+      "context": "나는",
+      "translation": "I",
+      "confidence": 0.9999842047691345,
+      "position": {
+        "x": 312.0,
+        "y": 22880.0
+      }
+    },
+    {
+      "word": "호출된",
+      "context": "호출된",
+      "translation": "Called",
+      "confidence": 0.9999833703041077,
+      "position": {
+        "x": 300.0,
+        "y": 16173.0
+      }
+    },
+    {
+      "word": "성씨",
+      "context": "성씨",
+      "translation": "Surname",
+      "confidence": 0.9999833703041077,
+      "position": {
+        "x": 445.0,
+        "y": 24675.0
+      }
+    },
+    {
+      "word": "그렇게",
+      "context": "그렇게",
+      "translation": "like",
+      "confidence": 0.9999820590019226,
+      "position": {
+        "x": 376.0,
+        "y": 18982.0
+      }
+    },
+    {
+      "word": "하는",
+      "context": "하는",
+      "translation": "doing",
+      "confidence": 0.9999818801879883,
+      "position": {
+        "x": 490.0,
+        "y": 22667.0
+      }
+    },
+    {
+      "word": "그래도",
+      "context": "그래도",
+      "translation": "still",
+      "confidence": 0.9999793171882629,
+      "position": {
+        "x": 476.0,
+        "y": 20580.0
+      }
+    },
+    {
+      "word": "못했다",
+      "context": "못했다",
+      "translation": "I",
+      "confidence": 0.9999765753746033,
+      "position": {
+        "x": 372.0,
+        "y": 3170.0
+      }
+    },
+    {
+      "word": "거라고",
+      "context": "거라고",
+      "translation": "That",
+      "confidence": 0.9999744892120361,
+      "position": {
+        "x": 457.0,
+        "y": 20620.0
+      }
+    },
+    {
+      "word": "많다",
+      "context": "많다",
+      "translation": "Many",
+      "confidence": 0.9999727010726929,
+      "position": {
+        "x": 425.0,
+        "y": 7609.0
+      }
+    },
+    {
+      "word": "인류",
+      "context": "인류",
+      "translation": "mankind",
+      "confidence": 0.9999718070030212,
+      "position": {
+        "x": 291.0,
+        "y": 15231.0
+      }
+    },
+    {
+      "word": "하긴",
+      "context": "하긴",
+      "translation": "but",
+      "confidence": 0.9999716877937317,
+      "position": {
+        "x": 455.0,
+        "y": 11708.0
+      }
+    },
+    {
+      "word": "추운데",
+      "context": "추운데",
+      "translation": "Cold",
+      "confidence": 0.9999716877937317,
+      "position": {
+        "x": 285.0,
+        "y": 12989.0
+      }
+    },
+    {
+      "word": "바로",
+      "context": "바로",
+      "translation": "as",
+      "confidence": 0.9999715685844421,
+      "position": {
+        "x": 278.0,
+        "y": 14678.0
+      }
+    },
+    {
+      "word": "친구가",
+      "context": "친구가",
+      "translation": "A",
+      "confidence": 0.9999706149101257,
+      "position": {
+        "x": 348.0,
+        "y": 16152.0
+      }
+    },
+    {
+      "word": "구경하",
+      "context": "구경하",
+      "translation": "Sight",
+      "confidence": 0.9999702572822571,
+      "position": {
+        "x": 470.0,
+        "y": 22909.0
+      }
+    },
+    {
+      "word": "하지",
+      "context": "하지",
+      "translation": "summer",
+      "confidence": 0.9999701976776123,
+      "position": {
+        "x": 471.0,
+        "y": 11775.0
+      }
+    },
+    {
+      "word": "상상도",
+      "context": "상상도",
+      "translation": "Imagination",
+      "confidence": 0.9999697804450989,
+      "position": {
+        "x": 314.0,
+        "y": 3171.0
+      }
+    },
+    {
+      "word": "분위기네요",
+      "context": "분위기네요",
+      "translation": "It's",
+      "confidence": 0.9999658465385437,
+      "position": {
+        "x": 340.0,
+        "y": 21528.0
+      }
+    },
+    {
+      "word": "붙이는",
+      "context": "붙이는",
+      "translation": "Attached",
+      "confidence": 0.9999656081199646,
+      "position": {
+        "x": 305.0,
+        "y": 15623.0
+      }
+    },
+    {
+      "word": "씨",
+      "context": "씨",
+      "translation": "seed",
+      "confidence": 0.9999655485153198,
+      "position": {
+        "x": 461.0,
+        "y": 25086.0
+      }
+    },
+    {
+      "word": "이름은",
+      "context": "이름은",
+      "translation": "The",
+      "confidence": 0.9999653697013855,
+      "position": {
+        "x": 357.0,
+        "y": 192.0
+      }
+    },
+    {
+      "word": "오늘",
+      "context": "오늘",
+      "translation": "today",
+      "confidence": 0.9999650716781616,
+      "position": {
+        "x": 373.0,
+        "y": 9909.0
+      }
+    },
+    {
+      "word": "이",
+      "context": "이",
+      "translation": "this",
+      "confidence": 0.9999642372131348,
+      "position": {
+        "x": 311.0,
+        "y": 15584.0
+      }
+    },
+    {
+      "word": "거예요",
+      "context": "거예요",
+      "translation": "It's",
+      "confidence": 0.9999637603759766,
+      "position": {
+        "x": 365.0,
+        "y": 19279.0
+      }
+    },
+    {
+      "word": "커피",
+      "context": "커피",
+      "translation": "coffee",
+      "confidence": 0.9999614357948303,
+      "position": {
+        "x": 303.0,
+        "y": 16760.0
+      }
+    },
+    {
+      "word": "그건",
+      "context": "그건",
+      "translation": "that",
+      "confidence": 0.9999610185623169,
+      "position": {
+        "x": 378.0,
+        "y": 15581.0
+      }
+    },
+    {
+      "word": "정도는",
+      "context": "정도는",
+      "translation": "Degree",
+      "confidence": 0.9999606013298035,
+      "position": {
+        "x": 294.0,
+        "y": 22290.0
+      }
+    },
+    {
+      "word": "왔는",
+      "context": "왔는",
+      "translation": "From",
+      "confidence": 0.9999590516090393,
+      "position": {
+        "x": 489.0,
+        "y": 12676.0
+      }
+    },
+    {
+      "word": "정도로",
+      "context": "정도로",
+      "translation": "To",
+      "confidence": 0.9999575614929199,
+      "position": {
+        "x": 362.0,
+        "y": 15966.0
+      }
+    },
+    {
+      "word": "소속중에서",
+      "context": "소속중에서",
+      "translation": "Affiliated",
+      "confidence": 0.9999561309814453,
+      "position": {
+        "x": 316.0,
+        "y": 1099.0
+      }
+    },
+    {
+      "word": "약하다는",
+      "context": "약하다는",
+      "translation": "Weak",
+      "confidence": 0.9999549984931946,
+      "position": {
+        "x": 290.0,
+        "y": 16190.0
+      }
+    },
+    {
+      "word": "보조금으로",
+      "context": "보조금으로",
+      "translation": "As",
+      "confidence": 0.999954879283905,
+      "position": {
+        "x": 388.0,
+        "y": 9328.0
+      }
+    },
+    {
+      "word": "잘",
+      "context": "잘",
+      "translation": "well",
+      "confidence": 0.9999548196792603,
+      "position": {
+        "x": 401.0,
+        "y": 23670.0
+      }
+    },
+    {
+      "word": "그러다",
+      "context": "그러다",
+      "translation": "Then",
+      "confidence": 0.9999527931213379,
+      "position": {
+        "x": 318.0,
+        "y": 7561.0
+      }
+    },
+    {
+      "word": "나라고좋아서",
+      "context": "나라고좋아서",
+      "translation": "I",
+      "confidence": 0.9999525547027588,
+      "position": {
+        "x": 394.0,
+        "y": 7920.0
+      }
+    },
+    {
+      "word": "이",
+      "context": "이",
+      "translation": "this",
+      "confidence": 0.9999524354934692,
+      "position": {
+        "x": 380.0,
+        "y": 9681.0
+      }
+    },
+    {
+      "word": "내",
+      "context": "내",
+      "translation": "my",
+      "confidence": 0.9999510049819946,
+      "position": {
+        "x": 492.0,
+        "y": 9655.0
+      }
+    },
+    {
+      "word": "거예요",
+      "context": "거예요",
+      "translation": "It's",
+      "confidence": 0.9999499917030334,
+      "position": {
+        "x": 457.0,
+        "y": 18876.0
+      }
+    },
+    {
+      "word": "오늘은",
+      "context": "오늘은",
+      "translation": "today",
+      "confidence": 0.9999497532844543,
+      "position": {
+        "x": 435.0,
+        "y": 25383.0
+      }
+    },
+    {
+      "word": "저친구",
+      "context": "저친구",
+      "translation": "That",
+      "confidence": 0.9999486804008484,
+      "position": {
+        "x": 345.0,
+        "y": 14134.0
+      }
+    },
+    {
+      "word": "거야",
+      "context": "거야",
+      "translation": "going",
+      "confidence": 0.9999483823776245,
+      "position": {
+        "x": 466.0,
+        "y": 25411.0
+      }
+    },
+    {
+      "word": "저친구",
+      "context": "저친구",
+      "translation": "That",
+      "confidence": 0.9999460577964783,
+      "position": {
+        "x": 288.0,
+        "y": 14697.0
+      }
+    },
+    {
+      "word": "병원비를",
+      "context": "병원비를",
+      "translation": "Hospital",
+      "confidence": 0.9999452829360962,
+      "position": {
+        "x": 303.0,
+        "y": 9303.0
+      }
+    },
+    {
+      "word": "왔어?",
+      "context": "왔어?",
+      "translation": "Did",
+      "confidence": 0.9999439120292664,
+      "position": {
+        "x": 311.0,
+        "y": 13753.0
+      }
+    },
+    {
+      "word": "데려가지도",
+      "context": "데려가지도",
+      "translation": "Even",
+      "confidence": 0.9999427795410156,
+      "position": {
+        "x": 347.0,
+        "y": 20322.0
+      }
+    },
+    {
+      "word": "찬성이요",
+      "context": "찬성이요",
+      "translation": "In",
+      "confidence": 0.9999414682388306,
+      "position": {
+        "x": 338.0,
+        "y": 22879.0
+      }
+    },
+    {
+      "word": "했었다고요?",
+      "context": "했었다고요?",
+      "translation": "Did",
+      "confidence": 0.999941349029541,
+      "position": {
+        "x": 363.0,
+        "y": 19600.0
+      }
+    },
+    {
+      "word": "문제가",
+      "context": "문제가",
+      "translation": "Problem",
+      "confidence": 0.9999402165412903,
+      "position": {
+        "x": 437.0,
+        "y": 18829.0
+      }
+    },
+    {
+      "word": "이번",
+      "context": "이번",
+      "translation": "this",
+      "confidence": 0.9999378323554993,
+      "position": {
+        "x": 332.0,
+        "y": 18417.0
+      }
+    },
+    {
+      "word": "잘",
+      "context": "잘",
+      "translation": "well",
+      "confidence": 0.9999366998672485,
+      "position": {
+        "x": 417.0,
+        "y": 24742.0
+      }
+    },
+    {
+      "word": "아",
+      "context": "아",
+      "translation": "ah",
+      "confidence": 0.9999364614486694,
+      "position": {
+        "x": 458.0,
+        "y": 16992.0
+      }
+    },
+    {
+      "word": "먹었는가?",
+      "context": "먹었는가?",
+      "translation": "Did",
+      "confidence": 0.9999362230300903,
+      "position": {
+        "x": 310.0,
+        "y": 13771.0
+      }
+    },
+    {
+      "word": "최종인",
+      "context": "최종인",
+      "translation": "Finalist",
+      "confidence": 0.9999356269836426,
+      "position": {
+        "x": 327.0,
+        "y": 15603.0
+      }
+    },
+    {
+      "word": "저기",
+      "context": "저기",
+      "translation": "excuse",
+      "confidence": 0.9999345541000366,
+      "position": {
+        "x": 326.0,
+        "y": 16736.0
+      }
+    },
+    {
+      "word": "한몫",
+      "context": "한몫",
+      "translation": "One",
+      "confidence": 0.9999318718910217,
+      "position": {
+        "x": 425.0,
+        "y": 11729.0
+      }
+    },
+    {
+      "word": "고마워요",
+      "context": "고마워요",
+      "translation": "thank",
+      "confidence": 0.9999316930770874,
+      "position": {
+        "x": 418.0,
+        "y": 10081.0
+      }
+    },
+    {
+      "word": "아무리",
+      "context": "아무리",
+      "translation": "ever",
+      "confidence": 0.9999315142631531,
+      "position": {
+        "x": 433.0,
+        "y": 20578.0
+      }
+    },
+    {
+      "word": "정도이다",
+      "context": "정도이다",
+      "translation": "Be",
+      "confidence": 0.999931275844574,
+      "position": {
+        "x": 444.0,
+        "y": 7286.0
+      }
+    },
+    {
+      "word": "있다",
+      "context": "있다",
+      "translation": "there",
+      "confidence": 0.999930739402771,
+      "position": {
+        "x": 414.0,
+        "y": 9354.0
+      }
+    },
+    {
+      "word": "나에게",
+      "context": "나에게",
+      "translation": "to",
+      "confidence": 0.9999279975891113,
+      "position": {
+        "x": 405.0,
+        "y": 2921.0
+      }
+    },
+    {
+      "word": "어서가요",
+      "context": "어서가요",
+      "translation": "Come",
+      "confidence": 0.9999264478683472,
+      "position": {
+        "x": 422.0,
+        "y": 25061.0
+      }
+    },
+    {
+      "word": "버티고",
+      "context": "버티고",
+      "translation": "Endure",
+      "confidence": 0.9999263882637024,
+      "position": {
+        "x": 359.0,
+        "y": 9352.0
+      }
+    },
+    {
+      "word": "목숨을거는",
+      "context": "목숨을거는",
+      "translation": "Risk",
+      "confidence": 0.9999238848686218,
+      "position": {
+        "x": 431.0,
+        "y": 7871.0
+      }
+    },
+    {
+      "word": "더",
+      "context": "더",
+      "translation": "more",
+      "confidence": 0.9999237060546875,
+      "position": {
+        "x": 295.0,
+        "y": 12673.0
+      }
+    },
+    {
+      "word": "약하다고?",
+      "context": "약하다고?",
+      "translation": "Is",
+      "confidence": 0.999921977519989,
+      "position": {
+        "x": 341.0,
+        "y": 15986.0
+      }
+    },
+    {
+      "word": "익숙해요",
+      "context": "익숙해요",
+      "translation": "I",
+      "confidence": 0.9999185800552368,
+      "position": {
+        "x": 399.0,
+        "y": 21121.0
+      }
+    },
+    {
+      "word": "그게",
+      "context": "그게",
+      "translation": "that",
+      "confidence": 0.9999052286148071,
+      "position": {
+        "x": 406.0,
+        "y": 18830.0
+      }
+    },
+    {
+      "word": "이미",
+      "context": "이미",
+      "translation": "already",
+      "confidence": 0.999897837638855,
+      "position": {
+        "x": 471.0,
+        "y": 16483.0
+      }
+    },
+    {
+      "word": "다",
+      "context": "다",
+      "translation": "all",
+      "confidence": 0.999896764755249,
+      "position": {
+        "x": 491.0,
+        "y": 19872.0
+      }
+    },
+    {
+      "word": "가시는군요",
+      "context": "가시는군요",
+      "translation": "You're",
+      "confidence": 0.9998959302902222,
+      "position": {
+        "x": 330.0,
+        "y": 18438.0
+      }
+    },
+    {
+      "word": "그만두고",
+      "context": "그만두고",
+      "translation": "Quit",
+      "confidence": 0.9998939037322998,
+      "position": {
+        "x": 339.0,
+        "y": 14654.0
+      }
+    },
+    {
+      "word": "하",
+      "context": "하",
+      "translation": "under",
+      "confidence": 0.9998939037322998,
+      "position": {
+        "x": 459.0,
+        "y": 16552.0
+      }
+    },
+    {
+      "word": "자그럼",
+      "context": "자그럼",
+      "translation": "Small",
+      "confidence": 0.9998915791511536,
+      "position": {
+        "x": 310.0,
+        "y": 24062.0
+      }
+    },
+    {
+      "word": "아니",
+      "context": "아니",
+      "translation": "no",
+      "confidence": 0.9998863935470581,
+      "position": {
+        "x": 488.0,
+        "y": 15398.0
+      }
+    },
+    {
+      "word": "오늘도",
+      "context": "오늘도",
+      "translation": "today",
+      "confidence": 0.9998824596405029,
+      "position": {
+        "x": 474.0,
+        "y": 13021.0
+      }
+    },
+    {
+      "word": "하자고",
+      "context": "하자고",
+      "translation": "Let's",
+      "confidence": 0.9998748898506165,
+      "position": {
+        "x": 299.0,
+        "y": 16322.0
+      }
+    },
+    {
+      "word": "자기들만",
+      "context": "자기들만",
+      "translation": "Only",
+      "confidence": 0.9998709559440613,
+      "position": {
+        "x": 450.0,
+        "y": 20598.0
+      }
+    },
+    {
+      "word": "될까요?",
+      "context": "될까요?",
+      "translation": "Will",
+      "confidence": 0.9998705387115479,
+      "position": {
+        "x": 319.0,
+        "y": 16808.0
+      }
+    },
+    {
+      "word": "뿐더러",
+      "context": "뿐더러",
+      "translation": "Not",
+      "confidence": 0.9998664855957031,
+      "position": {
+        "x": 419.0,
+        "y": 7584.0
+      }
+    },
+    {
+      "word": "Y",
+      "context": "Y",
+      "translation": "Y",
+      "confidence": 0.999862790107727,
+      "position": {
+        "x": 304.0,
+        "y": 14679.0
+      }
+    },
+    {
+      "word": "마누라가",
+      "context": "마누라가",
+      "translation": "My",
+      "confidence": 0.9998621940612793,
+      "position": {
+        "x": 449.0,
+        "y": 11369.0
+      }
+    },
+    {
+      "word": "자네가",
+      "context": "자네가",
+      "translation": "You",
+      "confidence": 0.9998554587364197,
+      "position": {
+        "x": 294.0,
+        "y": 14656.0
+      }
+    },
+    {
+      "word": "겨우",
+      "context": "겨우",
+      "translation": "barely",
+      "confidence": 0.9998550415039062,
+      "position": {
+        "x": 323.0,
+        "y": 9353.0
+      }
+    },
+    {
+      "word": "뭐",
+      "context": "뭐",
+      "translation": "what",
+      "confidence": 0.9998550415039062,
+      "position": {
+        "x": 335.0,
+        "y": 20925.0
+      }
+    },
+    {
+      "word": "부탁드려요",
+      "context": "부탁드려요",
+      "translation": "Please",
+      "confidence": 0.9998544454574585,
+      "position": {
+        "x": 411.0,
+        "y": 23668.0
+      }
+    },
+    {
+      "word": "저도요",
+      "context": "저도요",
+      "translation": "me",
+      "confidence": 0.9998524785041809,
+      "position": {
+        "x": 419.0,
+        "y": 23352.0
+      }
+    },
+    {
+      "word": "잘하는것도없는",
+      "context": "잘하는것도없는",
+      "translation": "Unlawful",
+      "confidence": 0.9998506903648376,
+      "position": {
+        "x": 369.0,
+        "y": 9654.0
+      }
+    },
+    {
+      "word": "적도",
+      "context": "적도",
+      "translation": "equator",
+      "confidence": 0.9998472929000854,
+      "position": {
+        "x": 386.0,
+        "y": 7611.0
+      }
+    },
+    {
+      "word": "자네가",
+      "context": "자네가",
+      "translation": "You",
+      "confidence": 0.9998467564582825,
+      "position": {
+        "x": 458.0,
+        "y": 11204.0
+      }
+    },
+    {
+      "word": "부상을",
+      "context": "부상을",
+      "translation": "Injury",
+      "confidence": 0.9998359680175781,
+      "position": {
+        "x": 292.0,
+        "y": 7584.0
+      }
+    },
+    {
+      "word": "다들",
+      "context": "다들",
+      "translation": "Everyone",
+      "confidence": 0.9998345375061035,
+      "position": {
+        "x": 324.0,
+        "y": 24086.0
+      }
+    },
+    {
+      "word": "뭐",
+      "context": "뭐",
+      "translation": "what",
+      "confidence": 0.9998332262039185,
+      "position": {
+        "x": 474.0,
+        "y": 22857.0
+      }
+    },
+    {
+      "word": "저희도가죠",
+      "context": "저희도가죠",
+      "translation": "We",
+      "confidence": 0.9998331069946289,
+      "position": {
+        "x": 317.0,
+        "y": 21547.0
+      }
+    },
+    {
+      "word": "아니",
+      "context": "아니",
+      "translation": "no",
+      "confidence": 0.9998329877853394,
+      "position": {
+        "x": 460.0,
+        "y": 11182.0
+      }
+    },
+    {
+      "word": "제가",
+      "context": "제가",
+      "translation": "I",
+      "confidence": 0.9998305439949036,
+      "position": {
+        "x": 324.0,
+        "y": 20885.0
+      }
+    },
+    {
+      "word": "수고하세요",
+      "context": "수고하세요",
+      "translation": "take",
+      "confidence": 0.999830424785614,
+      "position": {
+        "x": 379.0,
+        "y": 9932.0
+      }
+    },
+    {
+      "word": "던전은",
+      "context": "던전은",
+      "translation": "Dungeon",
+      "confidence": 0.9998250007629395,
+      "position": {
+        "x": 341.0,
+        "y": 16172.0
+      }
+    },
+    {
+      "word": "호",
+      "context": "호",
+      "translation": "like",
+      "confidence": 0.9998237490653992,
+      "position": {
+        "x": 409.0,
+        "y": 5817.0
+      }
+    },
+    {
+      "word": "제기랄",
+      "context": "제기랄",
+      "translation": "Shit",
+      "confidence": 0.9998186230659485,
+      "position": {
+        "x": 319.0,
+        "y": 4246.0
+      }
+    },
+    {
+      "word": "아저씨들",
+      "context": "아저씨들",
+      "translation": "Uncles",
+      "confidence": 0.9998170137405396,
+      "position": {
+        "x": 453.0,
+        "y": 16530.0
+      }
+    },
+    {
+      "word": "저만",
+      "context": "저만",
+      "translation": "I",
+      "confidence": 0.999800443649292,
+      "position": {
+        "x": 461.0,
+        "y": 19871.0
+      }
+    },
+    {
+      "word": "불리기",
+      "context": "불리기",
+      "translation": "Calling",
+      "confidence": 0.9997981190681458,
+      "position": {
+        "x": 455.0,
+        "y": 7263.0
+      }
+    },
+    {
+      "word": "인솔할까",
+      "context": "인솔할까",
+      "translation": "Should",
+      "confidence": 0.9997941255569458,
+      "position": {
+        "x": 435.0,
+        "y": 22666.0
+      }
+    },
+    {
+      "word": "헌터라고",
+      "context": "헌터라고",
+      "translation": "Hunter",
+      "confidence": 0.9997915029525757,
+      "position": {
+        "x": 385.0,
+        "y": 7262.0
+      }
+    },
+    {
+      "word": "괜찮아요",
+      "context": "괜찮아요",
+      "translation": "are",
+      "confidence": 0.9997775554656982,
+      "position": {
+        "x": 329.0,
+        "y": 20863.0
+      }
+    },
+    {
+      "word": "5급인",
+      "context": "5급인",
+      "translation": "Level",
+      "confidence": 0.9997772574424744,
+      "position": {
+        "x": 289.0,
+        "y": 15602.0
+      }
+    },
+    {
+      "word": "저도",
+      "context": "저도",
+      "translation": "me",
+      "confidence": 0.9997769594192505,
+      "position": {
+        "x": 481.0,
+        "y": 23263.0
+      }
+    },
+    {
+      "word": "성씨!",
+      "context": "성씨!",
+      "translation": "Sung!",
+      "confidence": 0.9997767806053162,
+      "position": {
+        "x": 293.0,
+        "y": 13731.0
+      }
+    },
+    {
+      "word": "그러니저",
+      "context": "그러니저",
+      "translation": "So",
+      "confidence": 0.9997761249542236,
+      "position": {
+        "x": 293.0,
+        "y": 16152.0
+      }
+    },
+    {
+      "word": "그럴",
+      "context": "그럴",
+      "translation": "So",
+      "confidence": 0.9997693300247192,
+      "position": {
+        "x": 298.0,
+        "y": 20145.0
+      }
+    },
+    {
+      "word": "송치열",
+      "context": "송치열",
+      "translation": "Song",
+      "confidence": 0.999765932559967,
+      "position": {
+        "x": 399.0,
+        "y": 23691.0
+      }
+    },
+    {
+      "word": "성씨",
+      "context": "성씨",
+      "translation": "Surname",
+      "confidence": 0.9997605085372925,
+      "position": {
+        "x": 280.0,
+        "y": 16306.0
+      }
+    },
+    {
+      "word": "계급이",
+      "context": "계급이",
+      "translation": "Class",
+      "confidence": 0.9997602105140686,
+      "position": {
+        "x": 314.0,
+        "y": 20300.0
+      }
+    },
+    {
+      "word": "서럽다정",
+      "context": "서럽다정",
+      "translation": "Sadness",
+      "confidence": 0.9997438788414001,
+      "position": {
+        "x": 442.0,
+        "y": 17578.0
+      }
+    },
+    {
+      "word": "증거야",
+      "context": "증거야",
+      "translation": "Evidence",
+      "confidence": 0.9997437596321106,
+      "position": {
+        "x": 346.0,
+        "y": 16191.0
+      }
+    },
+    {
+      "word": "성씨!",
+      "context": "성씨!",
+      "translation": "Sung!",
+      "confidence": 0.9997367858886719,
+      "position": {
+        "x": 331.0,
+        "y": 13731.0
+      }
+    },
+    {
+      "word": "크크",
+      "context": "크크",
+      "translation": "Creepy",
+      "confidence": 0.9997309446334839,
+      "position": {
+        "x": 318.0,
+        "y": 14638.0
+      }
+    },
+    {
+      "word": "나왔어",
+      "context": "나왔어",
+      "translation": "It",
+      "confidence": 0.9997189044952393,
+      "position": {
+        "x": 467.0,
+        "y": 19893.0
+      }
+    },
+    {
+      "word": "입원까지",
+      "context": "입원까지",
+      "translation": "Until",
+      "confidence": 0.9997060894966125,
+      "position": {
+        "x": 374.0,
+        "y": 19581.0
+      }
+    },
+    {
+      "word": "어?",
+      "context": "어?",
+      "translation": "uh?",
+      "confidence": 0.9996941089630127,
+      "position": {
+        "x": 321.0,
+        "y": 18372.0
+      }
+    },
+    {
+      "word": "회복이약간",
+      "context": "회복이약간",
+      "translation": "Slightly",
+      "confidence": 0.9996864199638367,
+      "position": {
+        "x": 302.0,
+        "y": 6630.0
+      }
+    },
+    {
+      "word": "편찮으신",
+      "context": "편찮으신",
+      "translation": "Vulnerable",
+      "confidence": 0.9996703863143921,
+      "position": {
+        "x": 320.0,
+        "y": 9280.0
+      }
+    },
+    {
+      "word": "네",
+      "context": "네",
+      "translation": "yes",
+      "confidence": 0.999660849571228,
+      "position": {
+        "x": 460.0,
+        "y": 23262.0
+      }
+    },
+    {
+      "word": "건데요",
+      "context": "건데요",
+      "translation": "It's",
+      "confidence": 0.999657392501831,
+      "position": {
+        "x": 345.0,
+        "y": 20906.0
+      }
+    },
+    {
+      "word": "밥은",
+      "context": "밥은",
+      "translation": "Rice",
+      "confidence": 0.9996472597122192,
+      "position": {
+        "x": 278.0,
+        "y": 13773.0
+      }
+    },
+    {
+      "word": "한지가꽤돼서",
+      "context": "한지가꽤돼서",
+      "translation": "Hanji",
+      "confidence": 0.9996419548988342,
+      "position": {
+        "x": 344.0,
+        "y": 12201.0
+      }
+    },
+    {
+      "word": "하는건아니",
+      "context": "하는건아니",
+      "translation": "Not",
+      "confidence": 0.9996304512023926,
+      "position": {
+        "x": 419.0,
+        "y": 7945.0
+      }
+    },
+    {
+      "word": "제가파티장",
+      "context": "제가파티장",
+      "translation": "My",
+      "confidence": 0.9996302723884583,
+      "position": {
+        "x": 436.0,
+        "y": 22625.0
+      }
+    },
+    {
+      "word": "엄청반기네?",
+      "context": "엄청반기네?",
+      "translation": "Is",
+      "confidence": 0.9996160864830017,
+      "position": {
+        "x": 344.0,
+        "y": 14181.0
+      }
+    },
+    {
+      "word": "신경써주셔서",
+      "context": "신경써주셔서",
+      "translation": "I",
+      "confidence": 0.999603807926178,
+      "position": {
+        "x": 397.0,
+        "y": 13961.0
+      }
+    },
+    {
+      "word": "계급이",
+      "context": "계급이",
+      "translation": "Class",
+      "confidence": 0.9995951652526855,
+      "position": {
+        "x": 321.0,
+        "y": 22863.0
+      }
+    },
+    {
+      "word": "한탕하러가는데",
+      "context": "한탕하러가는데",
+      "translation": "I'm",
+      "confidence": 0.9995937347412109,
+      "position": {
+        "x": 291.0,
+        "y": 22247.0
+      }
+    },
+    {
+      "word": "다들리네",
+      "context": "다들리네",
+      "translation": "Everything",
+      "confidence": 0.9995932579040527,
+      "position": {
+        "x": 442.0,
+        "y": 16507.0
+      }
+    },
+    {
+      "word": "오늘도즐겁게",
+      "context": "오늘도즐겁게",
+      "translation": "Today",
+      "confidence": 0.9995837807655334,
+      "position": {
+        "x": 300.0,
+        "y": 22227.0
+      }
+    },
+    {
+      "word": "조금튼튼하고",
+      "context": "조금튼튼하고",
+      "translation": "A",
+      "confidence": 0.9995656609535217,
+      "position": {
+        "x": 295.0,
+        "y": 6610.0
+      }
+    },
+    {
+      "word": "이젠커피까",
+      "context": "이젠커피까",
+      "translation": "Now",
+      "confidence": 0.999565601348877,
+      "position": {
+        "x": 432.0,
+        "y": 17557.0
+      }
+    },
+    {
+      "word": "다들",
+      "context": "다들",
+      "translation": "Everyone",
+      "confidence": 0.9995633363723755,
+      "position": {
+        "x": 427.0,
+        "y": 22687.0
+      }
+    },
+    {
+      "word": "김상식아저씨",
+      "context": "김상식아저씨",
+      "translation": "Uncle",
+      "confidence": 0.9995611310005188,
+      "position": {
+        "x": 403.0,
+        "y": 13941.0
+      }
+    },
+    {
+      "word": "주는",
+      "context": "주는",
+      "translation": "Giving",
+      "confidence": 0.9995559453964233,
+      "position": {
+        "x": 354.0,
+        "y": 9330.0
+      }
+    },
+    {
+      "word": "정말",
+      "context": "정말",
+      "translation": "really",
+      "confidence": 0.9995471239089966,
+      "position": {
+        "x": 333.0,
+        "y": 19255.0
+      }
+    },
+    {
+      "word": "최약병기야",
+      "context": "최약병기야",
+      "translation": "It's",
+      "confidence": 0.9995177984237671,
+      "position": {
+        "x": 333.0,
+        "y": 15231.0
+      }
+    },
+    {
+      "word": "가더니",
+      "context": "가더니",
+      "translation": "Go",
+      "confidence": 0.9995091557502747,
+      "position": {
+        "x": 327.0,
+        "y": 11405.0
+      }
+    },
+    {
+      "word": "게이트로",
+      "context": "게이트로",
+      "translation": "By",
+      "confidence": 0.999506950378418,
+      "position": {
+        "x": 347.0,
+        "y": 21512.0
+      }
+    },
+    {
+      "word": "고생했어",
+      "context": "고생했어",
+      "translation": "great",
+      "confidence": 0.9994949698448181,
+      "position": {
+        "x": 297.0,
+        "y": 13009.0
+      }
+    },
+    {
+      "word": "네",
+      "context": "네",
+      "translation": "yes",
+      "confidence": 0.9994446635246277,
+      "position": {
+        "x": 452.0,
+        "y": 19752.0
+      }
+    },
+    {
+      "word": "진우씨!",
+      "context": "진우씨!",
+      "translation": "Jinwoo!",
+      "confidence": 0.9993988871574402,
+      "position": {
+        "x": 359.0,
+        "y": 18179.0
+      }
+    },
+    {
+      "word": "와",
+      "context": "와",
+      "translation": "and",
+      "confidence": 0.9993428587913513,
+      "position": {
+        "x": 355.0,
+        "y": 25991.0
+      }
+    },
+    {
+      "word": "주희씨도",
+      "context": "주희씨도",
+      "translation": "Juhee",
+      "confidence": 0.9993231892585754,
+      "position": {
+        "x": 403.0,
+        "y": 21141.0
+      }
+    },
+    {
+      "word": "푹",
+      "context": "푹",
+      "translation": "Punch",
+      "confidence": 0.9993065595626831,
+      "position": {
+        "x": 355.0,
+        "y": 20302.0
+      }
+    },
+    {
+      "word": "이거",
+      "context": "이거",
+      "translation": "this",
+      "confidence": 0.9993022680282593,
+      "position": {
+        "x": 448.0,
+        "y": 17008.0
+      }
+    },
+    {
+      "word": "지급해",
+      "context": "지급해",
+      "translation": "Pay",
+      "confidence": 0.9992914795875549,
+      "position": {
+        "x": 302.0,
+        "y": 9329.0
+      }
+    },
+    {
+      "word": "좋아졌어",
+      "context": "좋아졌어",
+      "translation": "Get",
+      "confidence": 0.9992836117744446,
+      "position": {
+        "x": 323.0,
+        "y": 12672.0
+      }
+    },
+    {
+      "word": "주희",
+      "context": "주희",
+      "translation": "Juhee",
+      "confidence": 0.9992029666900635,
+      "position": {
+        "x": 340.0,
+        "y": 18394.0
+      }
+    },
+    {
+      "word": "많이",
+      "context": "많이",
+      "translation": "many",
+      "confidence": 0.9992027282714844,
+      "position": {
+        "x": 441.0,
+        "y": 11985.0
+      }
+    },
+    {
+      "word": "저도요~",
+      "context": "저도요~",
+      "translation": "I",
+      "confidence": 0.999147355556488,
+      "position": {
+        "x": 309.0,
+        "y": 23323.0
+      }
+    },
+    {
+      "word": "고졸출신에딱히",
+      "context": "고졸출신에딱히",
+      "translation": "From",
+      "confidence": 0.9991422891616821,
+      "position": {
+        "x": 388.0,
+        "y": 9630.0
+      }
+    },
+    {
+      "word": "E급게이트에서",
+      "context": "E급게이트에서",
+      "translation": "In",
+      "confidence": 0.99905925989151,
+      "position": {
+        "x": 350.0,
+        "y": 15749.0
+      }
+    },
+    {
+      "word": "다쳤네!!",
+      "context": "다쳤네!!",
+      "translation": "You're",
+      "confidence": 0.9990299940109253,
+      "position": {
+        "x": 358.0,
+        "y": 18232.0
+      }
+    },
+    {
+      "word": "사리라고~",
+      "context": "사리라고~",
+      "translation": "Sari",
+      "confidence": 0.9990081787109375,
+      "position": {
+        "x": 428.0,
+        "y": 24742.0
+      }
+    },
+    {
+      "word": "성진우",
+      "context": "성진우",
+      "translation": "Seong",
+      "confidence": 0.9990031719207764,
+      "position": {
+        "x": 352.0,
+        "y": 217.0
+      }
+    },
+    {
+      "word": "진우",
+      "context": "진우",
+      "translation": "Jinwoo",
+      "confidence": 0.9990003108978271,
+      "position": {
+        "x": 431.0,
+        "y": 25084.0
+      }
+    },
+    {
+      "word": "그",
+      "context": "그",
+      "translation": "that",
+      "confidence": 0.9989998936653137,
+      "position": {
+        "x": 347.0,
+        "y": 15969.0
+      }
+    },
+    {
+      "word": "네",
+      "context": "네",
+      "translation": "yes",
+      "confidence": 0.9989560842514038,
+      "position": {
+        "x": 472.0,
+        "y": 21596.0
+      }
+    },
+    {
+      "word": "를",
+      "context": "를",
+      "translation": "cast",
+      "confidence": 0.9986685514450073,
+      "position": {
+        "x": 315.0,
+        "y": 14180.0
+      }
+    },
+    {
+      "word": "슬슬",
+      "context": "슬슬",
+      "translation": "Slack",
+      "confidence": 0.998441219329834,
+      "position": {
+        "x": 321.0,
+        "y": 21512.0
+      }
+    },
+    {
+      "word": "어쩔수없는",
+      "context": "어쩔수없는",
+      "translation": "Inevitable",
+      "confidence": 0.9982746243476868,
+      "position": {
+        "x": 367.0,
+        "y": 9700.0
+      }
+    },
+    {
+      "word": "됐네요",
+      "context": "됐네요",
+      "translation": "Okay",
+      "confidence": 0.9981722831726074,
+      "position": {
+        "x": 422.0,
+        "y": 18984.0
+      }
+    },
+    {
+      "word": "자슬슬게이트로",
+      "context": "자슬슬게이트로",
+      "translation": "With",
+      "confidence": 0.9979467391967773,
+      "position": {
+        "x": 301.0,
+        "y": 21510.0
+      }
+    },
+    {
+      "word": "잔만",
+      "context": "잔만",
+      "translation": "Cupman",
+      "confidence": 0.9975237846374512,
+      "position": {
+        "x": 355.0,
+        "y": 16760.0
+      }
+    },
+    {
+      "word": "오느라",
+      "context": "오느라",
+      "translation": "Come",
+      "confidence": 0.9973317980766296,
+      "position": {
+        "x": 328.0,
+        "y": 12989.0
+      }
+    },
+    {
+      "word": "성진우",
+      "context": "성진우",
+      "translation": "Seong",
+      "confidence": 0.9967617988586426,
+      "position": {
+        "x": 436.0,
+        "y": 6510.0
+      }
+    },
+    {
+      "word": "가봅",
+      "context": "가봅",
+      "translation": "Go",
+      "confidence": 0.9965009689331055,
+      "position": {
+        "x": 476.0,
+        "y": 24485.0
+      }
+    },
+    {
+      "word": "들을라",
+      "context": "들을라",
+      "translation": "Listen",
+      "confidence": 0.9958059191703796,
+      "position": {
+        "x": 300.0,
+        "y": 16303.0
+      }
+    },
+    {
+      "word": "나혼자만",
+      "context": "나혼자만",
+      "translation": "Only",
+      "confidence": 0.995460569858551,
+      "position": {
+        "x": 343.0,
+        "y": 26648.0
+      }
+    },
+    {
+      "word": "원작추공",
+      "context": "원작추공",
+      "translation": "Original",
+      "confidence": 0.995276689529419,
+      "position": {
+        "x": 364.0,
+        "y": 5758.0
+      }
+    },
+    {
+      "word": "죄송해요",
+      "context": "죄송해요",
+      "translation": "sorry",
+      "confidence": 0.9950276613235474,
+      "position": {
+        "x": 453.0,
+        "y": 17695.0
+      }
+    },
+    {
+      "word": "앗!!",
+      "context": "앗!!",
+      "translation": "oh!!",
+      "confidence": 0.9950020909309387,
+      "position": {
+        "x": 374.0,
+        "y": 18152.0
+      }
+    },
+    {
+      "word": "성진우",
+      "context": "성진우",
+      "translation": "Seong",
+      "confidence": 0.9949670433998108,
+      "position": {
+        "x": 427.0,
+        "y": 17717.0
+      }
+    },
+    {
+      "word": "걱정이야",
+      "context": "걱정이야",
+      "translation": "I'm",
+      "confidence": 0.9945090413093567,
+      "position": {
+        "x": 363.0,
+        "y": 12180.0
+      }
+    },
+    {
+      "word": "Wo",
+      "context": "Wo",
+      "translation": "WO",
+      "confidence": 0.9944308996200562,
+      "position": {
+        "x": 442.0,
+        "y": 23691.0
+      }
+    },
+    {
+      "word": "나혼자만",
+      "context": "나혼자만",
+      "translation": "Only",
+      "confidence": 0.9942665100097656,
+      "position": {
+        "x": 300.0,
+        "y": 5553.0
+      }
+    },
+    {
+      "word": "헌터",
+      "context": "헌터",
+      "translation": "Hunter",
+      "confidence": 0.994035005569458,
+      "position": {
+        "x": 380.0,
+        "y": 15877.0
+      }
+    },
+    {
+      "word": "김씨",
+      "context": "김씨",
+      "translation": "Kim",
+      "confidence": 0.9939739108085632,
+      "position": {
+        "x": 472.0,
+        "y": 10471.0
+      }
+    },
+    {
+      "word": "여러분들을",
+      "context": "여러분들을",
+      "translation": "You",
+      "confidence": 0.9934380650520325,
+      "position": {
+        "x": 450.0,
+        "y": 22646.0
+      }
+    },
+    {
+      "word": "자자",
+      "context": "자자",
+      "translation": "now",
+      "confidence": 0.993191123008728,
+      "position": {
+        "x": 295.0,
+        "y": 16292.0
+      }
+    },
+    {
+      "word": "E급",
+      "context": "E급",
+      "translation": "E",
+      "confidence": 0.9917032718658447,
+      "position": {
+        "x": 391.0,
+        "y": 890.0
+      }
+    },
+    {
+      "word": "세삼",
+      "context": "세삼",
+      "translation": "Three",
+      "confidence": 0.9914282560348511,
+      "position": {
+        "x": 429.0,
+        "y": 11969.0
+      }
+    },
+    {
+      "word": "높잖수!",
+      "context": "높잖수!",
+      "translation": "High!",
+      "confidence": 0.9914189577102661,
+      "position": {
+        "x": 362.0,
+        "y": 22861.0
+      }
+    },
+    {
+      "word": "송씨가여기서",
+      "context": "송씨가여기서",
+      "translation": "Song",
+      "confidence": 0.9887053966522217,
+      "position": {
+        "x": 314.0,
+        "y": 22845.0
+      }
+    },
+    {
+      "word": "헌터짓",
+      "context": "헌터짓",
+      "translation": "Hunter",
+      "confidence": 0.988015353679657,
+      "position": {
+        "x": 350.0,
+        "y": 11362.0
+      }
+    },
+    {
+      "word": "자",
+      "context": "자",
+      "translation": "ruler",
+      "confidence": 0.986098051071167,
+      "position": {
+        "x": 304.0,
+        "y": 21514.0
+      }
+    },
+    {
+      "word": "2",
+      "context": "2",
+      "translation": "2",
+      "confidence": 0.9829297065734863,
+      "position": {
+        "x": 324.0,
+        "y": 14158.0
+      }
+    },
+    {
+      "word": "빠른걸빼면",
+      "context": "빠른걸빼면",
+      "translation": "If",
+      "confidence": 0.9816039204597473,
+      "position": {
+        "x": 300.0,
+        "y": 6652.0
+      }
+    },
+    {
+      "word": "Ho",
+      "context": "Ho",
+      "translation": "HO",
+      "confidence": 0.9807118773460388,
+      "position": {
+        "x": 335.0,
+        "y": 7610.0
+      }
+    },
+    {
+      "word": "기회김은주",
+      "context": "기회김은주",
+      "translation": "Opportunity",
+      "confidence": 0.9799685478210449,
+      "position": {
+        "x": 379.0,
+        "y": 26883.0
+      }
+    },
+    {
+      "word": "있을는지",
+      "context": "있을는지",
+      "translation": "Is",
+      "confidence": 0.9794384837150574,
+      "position": {
+        "x": 394.0,
+        "y": 12230.0
+      }
+    },
+    {
+      "word": "자",
+      "context": "자",
+      "translation": "ruler",
+      "confidence": 0.9772128462791443,
+      "position": {
+        "x": 446.0,
+        "y": 13044.0
+      }
+    },
+    {
+      "word": "|아",
+      "context": "|아",
+      "translation": "|",
+      "confidence": 0.9765790700912476,
+      "position": {
+        "x": 470.0,
+        "y": 19850.0
+      }
+    },
+    {
+      "word": "브타드",
+      "context": "브타드",
+      "translation": "Breed",
+      "confidence": 0.9748641848564148,
+      "position": {
+        "x": 463.0,
+        "y": 13044.0
+      }
+    },
+    {
+      "word": "죄송히",
+      "context": "죄송히",
+      "translation": "Sorry",
+      "confidence": 0.9736347794532776,
+      "position": {
+        "x": 473.0,
+        "y": 17009.0
+      }
+    },
+    {
+      "word": "금",
+      "context": "금",
+      "translation": "gold",
+      "confidence": 0.9710698127746582,
+      "position": {
+        "x": 470.0,
+        "y": 22874.0
+      }
+    },
+    {
+      "word": "E급",
+      "context": "E급",
+      "translation": "E",
+      "confidence": 0.9706733226776123,
+      "position": {
+        "x": 339.0,
+        "y": 6513.0
+      }
+    },
+    {
+      "word": "최약",
+      "context": "최약",
+      "translation": "Weakest",
+      "confidence": 0.9695481061935425,
+      "position": {
+        "x": 482.0,
+        "y": 15361.0
+      }
+    },
+    {
+      "word": "2평",
+      "context": "2평",
+      "translation": "2",
+      "confidence": 0.9690929055213928,
+      "position": {
+        "x": 439.0,
+        "y": 11774.0
+      }
+    },
+    {
+      "word": "o공",
+      "context": "o공",
+      "translation": "o",
+      "confidence": 0.9638618230819702,
+      "position": {
+        "x": 463.0,
+        "y": 11227.0
+      }
+    },
+    {
+      "word": "궁울",
+      "context": "궁울",
+      "translation": "Boring",
+      "confidence": 0.9620293378829956,
+      "position": {
+        "x": 337.0,
+        "y": 12655.0
+      }
+    },
+    {
+      "word": "헌터라는직업은",
+      "context": "헌터라는직업은",
+      "translation": "Hunter's",
+      "confidence": 0.9576660394668579,
+      "position": {
+        "x": 398.0,
+        "y": 9677.0
+      }
+    },
+    {
+      "word": "않았거든요",
+      "context": "않았거든요",
+      "translation": "I",
+      "confidence": 0.9571714401245117,
+      "position": {
+        "x": 328.0,
+        "y": 20340.0
+      }
+    },
+    {
+      "word": "송",
+      "context": "송",
+      "translation": "song",
+      "confidence": 0.9563671350479126,
+      "position": {
+        "x": 489.0,
+        "y": 22856.0
+      }
+    },
+    {
+      "word": "서울내공시",
+      "context": "서울내공시",
+      "translation": "Disclosure",
+      "confidence": 0.9553569555282593,
+      "position": {
+        "x": 436.0,
+        "y": 8316.0
+      }
+    },
+    {
+      "word": "각색기소럼",
+      "context": "각색기소럼",
+      "translation": "Adapter",
+      "confidence": 0.954849362373352,
+      "position": {
+        "x": 410.0,
+        "y": 5760.0
+      }
+    },
+    {
+      "word": "E급",
+      "context": "E급",
+      "translation": "E",
+      "confidence": 0.9536600112915039,
+      "position": {
+        "x": 444.0,
+        "y": 19851.0
+      }
+    },
+    {
+      "word": "정도니까--",
+      "context": "정도니까--",
+      "translation": "Because",
+      "confidence": 0.9518970847129822,
+      "position": {
+        "x": 365.0,
+        "y": 15785.0
+      }
+    },
+    {
+      "word": "어머니의",
+      "context": "어머니의",
+      "translation": "Mother",
+      "confidence": 0.9490346908569336,
+      "position": {
+        "x": 389.0,
+        "y": 9281.0
+      }
+    },
+    {
+      "word": "주운데오느라",
+      "context": "주운데오느라",
+      "translation": "Come",
+      "confidence": 0.9486183524131775,
+      "position": {
+        "x": 284.0,
+        "y": 12992.0
+      }
+    },
+    {
+      "word": "F",
+      "context": "F",
+      "translation": "F",
+      "confidence": 0.9445556402206421,
+      "position": {
+        "x": 490.0,
+        "y": 11732.0
+      }
+    },
+    {
+      "word": "아",
+      "context": "아",
+      "translation": "ah",
+      "confidence": 0.9393828511238098,
+      "position": {
+        "x": 468.0,
+        "y": 10437.0
+      }
+    },
+    {
+      "word": "'최약병기'",
+      "context": "'최약병기'",
+      "translation": "'The",
+      "confidence": 0.9385087490081787,
+      "position": {
+        "x": 349.0,
+        "y": 15644.0
+      }
+    },
+    {
+      "word": "들어가는",
+      "context": "들어가는",
+      "translation": "Entering",
+      "confidence": 0.9353871941566467,
+      "position": {
+        "x": 294.0,
+        "y": 21529.0
+      }
+    },
+    {
+      "word": "모르겠구먼",
+      "context": "모르겠구먼",
+      "translation": "I",
+      "confidence": 0.9332752227783203,
+      "position": {
+        "x": 341.0,
+        "y": 14679.0
+      }
+    },
+    {
+      "word": "네네--",
+      "context": "네네--",
+      "translation": "yes",
+      "confidence": 0.9303510189056396,
+      "position": {
+        "x": 369.0,
+        "y": 25163.0
+      }
+    },
+    {
+      "word": "오-",
+      "context": "오-",
+      "translation": "oh-",
+      "confidence": 0.9300289154052734,
+      "position": {
+        "x": 361.0,
+        "y": 16257.0
+      }
+    },
+    {
+      "word": "를리를",
+      "context": "를리를",
+      "translation": "Even",
+      "confidence": 0.924222469329834,
+      "position": {
+        "x": 310.0,
+        "y": 20320.0
+      }
+    },
+    {
+      "word": "수가-",
+      "context": "수가-",
+      "translation": "medical",
+      "confidence": 0.9194647669792175,
+      "position": {
+        "x": 320.0,
+        "y": 20144.0
+      }
+    },
+    {
+      "word": "레이드",
+      "context": "레이드",
+      "translation": "Raid",
+      "confidence": 0.9189569354057312,
+      "position": {
+        "x": 364.0,
+        "y": 18416.0
+      }
+    },
+    {
+      "word": "굴",
+      "context": "굴",
+      "translation": "cave",
+      "confidence": 0.9156347513198853,
+      "position": {
+        "x": 346.0,
+        "y": 19280.0
+      }
+    },
+    {
+      "word": "T",
+      "context": "T",
+      "translation": "T",
+      "confidence": 0.9131601452827454,
+      "position": {
+        "x": 456.0,
+        "y": 27308.0
+      }
+    },
+    {
+      "word": "여-",
+      "context": "여-",
+      "translation": "female-",
+      "confidence": 0.912286639213562,
+      "position": {
+        "x": 488.0,
+        "y": 12657.0
+      }
+    },
+    {
+      "word": "이폼",
+      "context": "이폼",
+      "translation": "Epo",
+      "confidence": 0.9033169746398926,
+      "position": {
+        "x": 278.0,
+        "y": 16321.0
+      }
+    },
+    {
+      "word": "모",
+      "context": "모",
+      "translation": "what",
+      "confidence": 0.9029611945152283,
+      "position": {
+        "x": 395.0,
+        "y": 15862.0
+      }
+    },
+    {
+      "word": "극Y그",
+      "context": "극Y그",
+      "translation": "Drama",
+      "confidence": 0.8989837765693665,
+      "position": {
+        "x": 307.0,
+        "y": 11362.0
+      }
+    },
+    {
+      "word": "lo거o",
+      "context": "lo거o",
+      "translation": "LO",
+      "confidence": 0.8968518972396851,
+      "position": {
+        "x": 329.0,
+        "y": 17760.0
+      }
+    },
+    {
+      "word": "죽다살아단적도많다",
+      "context": "죽다살아단적도많다",
+      "translation": "There",
+      "confidence": 0.8907549977302551,
+      "position": {
+        "x": 301.0,
+        "y": 7616.0
+      }
+    },
+    {
+      "word": "바을",
+      "context": "바을",
+      "translation": "Bar",
+      "confidence": 0.8862066268920898,
+      "position": {
+        "x": 382.0,
+        "y": 6513.0
+      }
+    },
+    {
+      "word": "Y온",
+      "context": "Y온",
+      "translation": "Y",
+      "confidence": 0.8805601596832275,
+      "position": {
+        "x": 402.0,
+        "y": 15876.0
+      }
+    },
+    {
+      "word": "Elo",
+      "context": "Elo",
+      "translation": "Elo",
+      "confidence": 0.8780345916748047,
+      "position": {
+        "x": 458.0,
+        "y": 2920.0
+      }
+    },
+    {
+      "word": "롬",
+      "context": "롬",
+      "translation": "Rom",
+      "confidence": 0.8778524398803711,
+      "position": {
+        "x": 458.0,
+        "y": 13002.0
+      }
+    },
+    {
+      "word": "-----",
+      "context": "-----",
+      "translation": "-----",
+      "confidence": 0.8765308260917664,
+      "position": {
+        "x": 429.0,
+        "y": 19010.0
+      }
+    },
+    {
+      "word": "VGDOGG",
+      "context": "VGDOGG",
+      "translation": "Vgdogg",
+      "confidence": 0.8764364123344421,
+      "position": {
+        "x": 435.0,
+        "y": 5744.0
+      }
+    },
+    {
+      "word": "우리도",
+      "context": "우리도",
+      "translation": "We",
+      "confidence": 0.8713879585266113,
+      "position": {
+        "x": 424.0,
+        "y": 24696.0
+      }
+    },
+    {
+      "word": "하하-",
+      "context": "하하-",
+      "translation": "haha-",
+      "confidence": 0.8682318329811096,
+      "position": {
+        "x": 399.0,
+        "y": 19006.0
+      }
+    },
+    {
+      "word": "조",
+      "context": "조",
+      "translation": "article",
+      "confidence": 0.8655639886856079,
+      "position": {
+        "x": 454.0,
+        "y": 22314.0
+      }
+    },
+    {
+      "word": "거o",
+      "context": "거o",
+      "translation": "Oh",
+      "confidence": 0.8546799421310425,
+      "position": {
+        "x": 334.0,
+        "y": 22288.0
+      }
+    },
+    {
+      "word": "JoY",
+      "context": "JoY",
+      "translation": "Joy",
+      "confidence": 0.8520652651786804,
+      "position": {
+        "x": 326.0,
+        "y": 15582.0
+      }
+    },
+    {
+      "word": "범고",
+      "context": "범고",
+      "translation": "Offense",
+      "confidence": 0.844066858291626,
+      "position": {
+        "x": 456.0,
+        "y": 18816.0
+      }
+    },
+    {
+      "word": "무고F",
+      "context": "무고F",
+      "translation": "Innocent",
+      "confidence": 0.8391728401184082,
+      "position": {
+        "x": 302.0,
+        "y": 27089.0
+      }
+    },
+    {
+      "word": "기회김은주:편집김성미",
+      "context": "기회김은주:편집김성미",
+      "translation": "Opportunity",
+      "confidence": 0.8254547715187073,
+      "position": {
+        "x": 378.0,
+        "y": 26884.0
+      }
+    },
+    {
+      "word": "아니",
+      "context": "아니",
+      "translation": "no",
+      "confidence": 0.8090229630470276,
+      "position": {
+        "x": 487.0,
+        "y": 18831.0
+      }
+    },
+    {
+      "word": "'6226",
+      "context": "'6226",
+      "translation": "'6226",
+      "confidence": 0.8084250688552856,
+      "position": {
+        "x": 403.0,
+        "y": 7895.0
+      }
+    },
+    {
+      "word": "원작주",
+      "context": "원작주",
+      "translation": "Original",
+      "confidence": 0.8024144172668457,
+      "position": {
+        "x": 483.0,
+        "y": 26871.0
+      }
+    },
+    {
+      "word": "쉬는동",
+      "context": "쉬는동",
+      "translation": "Rest",
+      "confidence": 0.7925545573234558,
+      "position": {
+        "x": 311.0,
+        "y": 12656.0
+      }
+    },
+    {
+      "word": "거리REDCEHE-!",
+      "context": "거리REDCEHE-!",
+      "translation": "Street",
+      "confidence": 0.7876174449920654,
+      "position": {
+        "x": 451.0,
+        "y": 26884.0
+      }
+    },
+    {
+      "word": "FYllo플",
+      "context": "FYllo플",
+      "translation": "Fyllo",
+      "confidence": 0.7874123454093933,
+      "position": {
+        "x": 452.0,
+        "y": 24697.0
+      }
+    },
+    {
+      "word": "롱Y논머해",
+      "context": "롱Y논머해",
+      "translation": "Long",
+      "confidence": 0.7841686606407166,
+      "position": {
+        "x": 299.0,
+        "y": 5960.0
+      }
+    },
+    {
+      "word": "ol어매궁",
+      "context": "ol어매궁",
+      "translation": "olmaegung",
+      "confidence": 0.7767811417579651,
+      "position": {
+        "x": 298.0,
+        "y": 10920.0
+      }
+    },
+    {
+      "word": "0론릉",
+      "context": "0론릉",
+      "translation": "0",
+      "confidence": 0.7741851806640625,
+      "position": {
+        "x": 466.0,
+        "y": 18854.0
+      }
+    },
+    {
+      "word": "비Y문",
+      "context": "비Y문",
+      "translation": "Non",
+      "confidence": 0.7739815711975098,
+      "position": {
+        "x": 404.0,
+        "y": 13978.0
+      }
+    },
+    {
+      "word": "늘워요",
+      "context": "늘워요",
+      "translation": "Stretch",
+      "confidence": 0.7688835263252258,
+      "position": {
+        "x": 394.0,
+        "y": 5744.0
+      }
+    },
+    {
+      "word": "성진우",
+      "context": "성진우",
+      "translation": "Seong",
+      "confidence": 0.7670231461524963,
+      "position": {
+        "x": 479.0,
+        "y": 16989.0
+      }
+    },
+    {
+      "word": "Ylo",
+      "context": "Ylo",
+      "translation": "Ylo",
+      "confidence": 0.7341632843017578,
+      "position": {
+        "x": 349.0,
+        "y": 20886.0
+      }
+    },
+    {
+      "word": "IkIo바",
+      "context": "IkIo바",
+      "translation": "IKIO",
+      "confidence": 0.7340144515037537,
+      "position": {
+        "x": 374.0,
+        "y": 15603.0
+      }
+    },
+    {
+      "word": "려금",
+      "context": "려금",
+      "translation": "Ryeomgeum",
+      "confidence": 0.7271432876586914,
+      "position": {
+        "x": 495.0,
+        "y": 22875.0
+      }
+    },
+    {
+      "word": "흥금",
+      "context": "흥금",
+      "translation": "Hunggeum",
+      "confidence": 0.7183246612548828,
+      "position": {
+        "x": 364.0,
+        "y": 5745.0
+      }
+    },
+    {
+      "word": "허lozlYIo",
+      "context": "허lozlYIo",
+      "translation": "Huh",
+      "confidence": 0.7180187702178955,
+      "position": {
+        "x": 395.0,
+        "y": 21162.0
+      }
+    },
+    {
+      "word": "O고단",
+      "context": "O고단",
+      "translation": "O",
+      "confidence": 0.6936202645301819,
+      "position": {
+        "x": 275.0,
+        "y": 27107.0
+      }
+    },
+    {
+      "word": "극품Ho료",
+      "context": "극품Ho료",
+      "translation": "Drama",
+      "confidence": 0.6894841194152832,
+      "position": {
+        "x": 397.0,
+        "y": 25410.0
+      }
+    },
+    {
+      "word": "IkIx0",
+      "context": "IkIx0",
+      "translation": "IKIX0",
+      "confidence": 0.6774744987487793,
+      "position": {
+        "x": 429.0,
+        "y": 24718.0
+      }
+    },
+    {
+      "word": "EA",
+      "context": "EA",
+      "translation": "EA",
+      "confidence": 0.6766707301139832,
+      "position": {
+        "x": 345.0,
+        "y": 13265.0
+      }
+    },
+    {
+      "word": "로",
+      "context": "로",
+      "translation": "as",
+      "confidence": 0.6535506248474121,
+      "position": {
+        "x": 338.0,
+        "y": 16762.0
+      }
+    },
+    {
+      "word": "10극펀ly",
+      "context": "10극펀ly",
+      "translation": "10",
+      "confidence": 0.648827850818634,
+      "position": {
+        "x": 299.0,
+        "y": 12635.0
+      }
+    },
+    {
+      "word": "름름로l어ILI",
+      "context": "름름로l어ILI",
+      "translation": "With",
+      "confidence": 0.6485891342163086,
+      "position": {
+        "x": 296.0,
+        "y": 22269.0
+      }
+    },
+    {
+      "word": "골음고",
+      "context": "골음고",
+      "translation": "Gol",
+      "confidence": 0.6468053460121155,
+      "position": {
+        "x": 391.0,
+        "y": 7287.0
+      }
+    },
+    {
+      "word": "부-125",
+      "context": "부-125",
+      "translation": "Wealth-125",
+      "confidence": 0.6446999311447144,
+      "position": {
+        "x": 298.0,
+        "y": 27130.0
+      }
+    },
+    {
+      "word": ":",
+      "context": ":",
+      "translation": ":",
+      "confidence": 0.6413091421127319,
+      "position": {
+        "x": 454.0,
+        "y": 21127.0
+      }
+    },
+    {
+      "word": "본색로은무디면서미디어가리리거차회의겨약에타",
+      "context": "본색로은무디면서미디어가리리거차회의겨약에타",
+      "translation": "Eta",
+      "confidence": 0.6380345225334167,
+      "position": {
+        "x": 364.0,
+        "y": 26901.0
+      }
+    },
+    {
+      "word": "-",
+      "context": "-",
+      "translation": "-",
+      "confidence": 0.6379531621932983,
+      "position": {
+        "x": 280.0,
+        "y": 27092.0
+      }
+    },
+    {
+      "word": "+류로",
+      "context": "+류로",
+      "translation": "+Ryuro",
+      "confidence": 0.6305244565010071,
+      "position": {
+        "x": 338.0,
+        "y": 12226.0
+      }
+    },
+    {
+      "word": "6",
+      "context": "6",
+      "translation": "6",
+      "confidence": 0.6278504729270935,
+      "position": {
+        "x": 499.0,
+        "y": 7924.0
+      }
+    },
+    {
+      "word": "6",
+      "context": "6",
+      "translation": "6",
+      "confidence": 0.6266451478004456,
+      "position": {
+        "x": 433.0,
+        "y": 16528.0
+      }
+    },
+    {
+      "word": "Io류",
+      "context": "Io류",
+      "translation": "IO",
+      "confidence": 0.6246243715286255,
+      "position": {
+        "x": 347.0,
+        "y": 12616.0
+      }
+    },
+    {
+      "word": "퓨금크아는",
+      "context": "퓨금크아는",
+      "translation": "Fumet",
+      "confidence": 0.6225965023040771,
+      "position": {
+        "x": 427.0,
+        "y": 11753.0
+      }
+    },
+    {
+      "word": "수지",
+      "context": "수지",
+      "translation": "profit",
+      "confidence": 0.6160751581192017,
+      "position": {
+        "x": 418.0,
+        "y": 11981.0
+      }
+    },
+    {
+      "word": "}:",
+      "context": "}:",
+      "translation": "}:",
+      "confidence": 0.6145251989364624,
+      "position": {
+        "x": 422.0,
+        "y": 338.0
+      }
+    },
+    {
+      "word": "--lo싱로",
+      "context": "--lo싱로",
+      "translation": "-Lo",
+      "confidence": 0.6045652031898499,
+      "position": {
+        "x": 339.0,
+        "y": 14696.0
+      }
+    },
+    {
+      "word": "공",
+      "context": "공",
+      "translation": "ball",
+      "confidence": 0.6020615100860596,
+      "position": {
+        "x": 309.0,
+        "y": 12674.0
+      }
+    },
+    {
+      "word": "문주한불노6",
+      "context": "문주한불노6",
+      "translation": "Munju",
+      "confidence": 0.5985101461410522,
+      "position": {
+        "x": 293.0,
+        "y": 27027.0
+      }
+    },
+    {
+      "word": "루힉는",
+      "context": "루힉는",
+      "translation": "Luke",
+      "confidence": 0.5819692611694336,
+      "position": {
+        "x": 402.0,
+        "y": 15892.0
+      }
+    },
+    {
+      "word": "장발",
+      "context": "장발",
+      "translation": "Long",
+      "confidence": 0.5804281830787659,
+      "position": {
+        "x": 337.0,
+        "y": 19264.0
+      }
+    },
+    {
+      "word": "o",
+      "context": "o",
+      "translation": "o",
+      "confidence": 0.5796865224838257,
+      "position": {
+        "x": 397.0,
+        "y": 9886.0
+      }
+    },
+    {
+      "word": "Y요ha",
+      "context": "Y요ha",
+      "translation": "Y",
+      "confidence": 0.5761488080024719,
+      "position": {
+        "x": 367.0,
+        "y": 7561.0
+      }
+    },
+    {
+      "word": "'意",
+      "context": "'意 lbl?",
+      "translation": "'LBL?",
+      "confidence": 0.5722876191139221,
+      "position": {
+        "x": 343.0,
+        "y": 2155.0
+      }
+    },
+    {
+      "word": "Hu을",
+      "context": "Hu을",
+      "translation": "HU",
+      "confidence": 0.5701205134391785,
+      "position": {
+        "x": 467.0,
+        "y": 17714.0
+      }
+    },
+    {
+      "word": "'미곱보",
+      "context": "'미곱보",
+      "translation": "'Michex",
+      "confidence": 0.5688886642456055,
+      "position": {
+        "x": 365.0,
+        "y": 26915.0
+      }
+    },
+    {
+      "word": "일",
+      "context": "일",
+      "translation": "Day",
+      "confidence": 0.5663501024246216,
+      "position": {
+        "x": 499.0,
+        "y": 2923.0
+      }
+    },
+    {
+      "word": "ly",
+      "context": "ly",
+      "translation": "ly",
+      "confidence": 0.5594856142997742,
+      "position": {
+        "x": 309.0,
+        "y": 24135.0
+      }
+    },
+    {
+      "word": "Ko",
+      "context": "Ko I",
+      "translation": "KO",
+      "confidence": 0.5528056025505066,
+      "position": {
+        "x": 299.0,
+        "y": 20125.0
+      }
+    },
+    {
+      "word": "I",
+      "context": "Ko I",
+      "translation": "I",
+      "confidence": 0.5528056025505066,
+      "position": {
+        "x": 299.0,
+        "y": 20125.0
+      }
+    },
+    {
+      "word": "弓릉",
+      "context": "弓릉",
+      "translation": "弓",
+      "confidence": 0.5502417087554932,
+      "position": {
+        "x": 413.0,
+        "y": 2944.0
+      }
+    },
+    {
+      "word": "극쿄",
+      "context": "극쿄",
+      "translation": "Farcyo",
+      "confidence": 0.5459803938865662,
+      "position": {
+        "x": 456.0,
+        "y": 11731.0
+      }
+    },
+    {
+      "word": "/",
+      "context": "/",
+      "translation": "/",
+      "confidence": 0.545775294303894,
+      "position": {
+        "x": 337.0,
+        "y": 9555.0
+      }
+    },
+    {
+      "word": "한타시T다",
+      "context": "한타시T다",
+      "translation": "Hanta",
+      "confidence": 0.5455082654953003,
+      "position": {
+        "x": 274.0,
+        "y": 27230.0
+      }
+    },
+    {
+      "word": "무쿄",
+      "context": "무쿄",
+      "translation": "Mukyo",
+      "confidence": 0.5453969836235046,
+      "position": {
+        "x": 286.0,
+        "y": 27090.0
+      }
+    },
+    {
+      "word": "*",
+      "context": "*",
+      "translation": "*",
+      "confidence": 0.5403485298156738,
+      "position": {
+        "x": 427.0,
+        "y": 26006.0
+      }
+    },
+    {
+      "word": "미의구01킨",
+      "context": "미의구01킨",
+      "translation": "Aesthetics",
+      "confidence": 0.5375025272369385,
+      "position": {
+        "x": 320.0,
+        "y": 27318.0
+      }
+    },
+    {
+      "word": "[6본긍팎리Z",
+      "context": "[6본긍팎리Z",
+      "translation": "[6",
+      "confidence": 0.5374597907066345,
+      "position": {
+        "x": 327.0,
+        "y": 2131.0
+      }
+    },
+    {
+      "word": "워2문료",
+      "context": "워2문료",
+      "translation": "War",
+      "confidence": 0.5332006216049194,
+      "position": {
+        "x": 415.0,
+        "y": 26884.0
+      }
+    },
+    {
+      "word": "물lo에",
+      "context": "물lo에",
+      "translation": "Water",
+      "confidence": 0.5322122573852539,
+      "position": {
+        "x": 406.0,
+        "y": 9909.0
+      }
+    },
+    {
+      "word": "뿜문",
+      "context": "뿜문",
+      "translation": "Spout",
+      "confidence": 0.5280672907829285,
+      "position": {
+        "x": 479.0,
+        "y": 21945.0
+      }
+    },
+    {
+      "word": "우어골어",
+      "context": "우어골어",
+      "translation": "Tall",
+      "confidence": 0.522374153137207,
+      "position": {
+        "x": 451.0,
+        "y": 22891.0
+      }
+    },
+    {
+      "word": "Iony",
+      "context": "Iony",
+      "translation": "Iony",
+      "confidence": 0.5201343297958374,
+      "position": {
+        "x": 462.0,
+        "y": 9704.0
+      }
+    },
+    {
+      "word": "14르",
+      "context": "14르",
+      "translation": "14",
+      "confidence": 0.5147808790206909,
+      "position": {
+        "x": 350.0,
+        "y": 14642.0
+      }
+    },
+    {
+      "word": "디lo음룸",
+      "context": "디lo음룸",
+      "translation": "The",
+      "confidence": 0.5055209994316101,
+      "position": {
+        "x": 351.0,
+        "y": 15625.0
+      }
+    },
+    {
+      "word": "전군징성예대E5T니마의구",
+      "context": "전군징성예대E5T니마의구",
+      "translation": "Jeongun",
+      "confidence": 0.5003933310508728,
+      "position": {
+        "x": 274.0,
+        "y": 27064.0
+      }
+    },
+    {
+      "word": "|o몬lE",
+      "context": "|o몬lE bl",
+      "translation": "|",
+      "confidence": 0.5002253651618958,
+      "position": {
+        "x": 299.0,
+        "y": 22861.0
+      }
+    },
+    {
+      "word": "bl",
+      "context": "|o몬lE bl",
+      "translation": "o",
+      "confidence": 0.5002253651618958,
+      "position": {
+        "x": 299.0,
+        "y": 22861.0
+      }
+    }
+  ]
+}

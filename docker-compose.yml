@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  webtoon-ocr:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./input:/app/input
+      - ./output:/app/output
+    environment:
+      - LOG_LEVEL=DEBUG
+      - PYTHONUNBUFFERED=1
+    command: >
+      --input /app/input/webtoon.jpg
+      --output /app/output/results.json
+      --verbose
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3" 
